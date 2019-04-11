@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+.bgimg1{
+	background: url( "../images for linked pages/great wall of china/wall19.jpg")no-repeat;
+	background-attachment: fixed;
+}
+.bgimg2{
+	background: url( "../images for linked pages/great wall of china/wall21.jpg")no-repeat;
+	background-attachment: fixed;
+}

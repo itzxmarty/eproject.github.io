@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bgimg1{
+	background: url( "../images for linked pages/Colosseum.jpg")no-repeat;
+	background-attachment: fixed;
+}
+.bgimg2{
+	background: url( "../images for linked pages/Colosseum2.jpg")no-repeat;
+	background-attachment: fixed;
+}
